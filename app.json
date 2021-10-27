@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Czarlike",
+    "slug": "Czarlike",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./app/assets/icon.png",
+    "splash": {
+      "image": "./app/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F59B2D"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./app/assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.uipro.Czarlike"
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    }
+  }
+}

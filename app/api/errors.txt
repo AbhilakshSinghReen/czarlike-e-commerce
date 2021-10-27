@@ -1,0 +1,25 @@
+0001: POST request to get all countries failed - apiServices.getAllCountries
+
+0002: POST request to get states from country ID failed - apiServices.getStatesFromCountryId
+
+0003: POST request to get cities from state ID failed - apiServices.getCitiesFromStateId
+
+0004: POST request to register new user failed - apiServices.registerNewUser
+
+0005: GET request get deals of the day failed - apiServices.getDealsOfTheDay
+
+0006: GET request get featured products failed - apiServices.getFeaturedProducts
+
+0007: POST request to login user failed - apiServices.loginUserWithEmailAndPassword
+
+0008: POST request to get categories, subcategories and subsubcategories failed - apiServices.getCategories_Subcategories_And_Subsubcategories
+
+0009: POST request to get product details failed - apiServices.getProductDetails
+
+0010: GET request to get cart items failed - apiServices.getProductsInCart
+
+0011: GET request to get all products summaries failed - apiServices.getAllProductSummaries
+
+0012: GET request to get all products in a sub-subcategory failed - apiServices.getAllProductsInSubSubcategory
+
+0013: POST request to add product to cart failed - apiServices.addProductToCart
